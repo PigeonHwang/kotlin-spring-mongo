@@ -1,0 +1,11 @@
+type Query {
+    ping: String!
+    authPing: String!
+}
+
+type Mutation {
+
+}
+
+scalar Long
+scalar DateTime
